@@ -1,6 +1,6 @@
 ## Hi, I'm Ryuu
 
-Currently a graduate computer science student and am working as a Database Administrator.
+Currently a graduate computer science student and am currently working as a Database Administrator.
 
 Recently been taking an interest in DevOps.
 
